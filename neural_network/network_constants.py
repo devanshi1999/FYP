@@ -1,0 +1,11 @@
+n_outs = 2                          # output classes
+n_epochs = 25                        # increase num of epochs when using dropout
+batch_size = 50
+learning_rate = 0.1
+max_norm = 0
+dropout_rate = 0.5
+nfilters = 100              # no of filters in convolution layer
+q_k_max = 1                 # k-max pooling layer k value for questions
+a_k_max = 1                 # k-max pooling layer k value for answers
+q_filter_widths = [5]       # filter width for CNN
+a_filter_widths = [5]
