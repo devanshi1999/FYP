@@ -15,3 +15,17 @@
 
 ## Download glove vectors @
 https://nlp.stanford.edu/projects/glove/
+
+## How to train and test the model ?
+1. goto neural_network directory
+2. sh build_datasets.sh
+3. python run_neuralNetwork.py
+
+## How to run the chatbot?
+1. export JAVA_HOME=`/usr/libexec/java_home -v 1.8.0_281`
+2. python corenlp.py
+
+Open another terminal window,
+1. python main.py
+
+
