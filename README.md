@@ -12,3 +12,6 @@
 ![win 4](https://github.com/devanshi1999/FYP/blob/master/Output/Screen%20Shot%202021-05-06%20at%204.29.41%20PM.png)
 
 ![win 5](https://github.com/devanshi1999/FYP/blob/master/Output/Screen%20Shot%202021-05-06%20at%204.30.26%20PM.png)
+
+## Download glove vectors @
+https://nlp.stanford.edu/projects/glove/
