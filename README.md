@@ -15,6 +15,7 @@
 
 ## Download glove vectors @
 https://nlp.stanford.edu/projects/glove/
+Save 50d file in a folder named "embeddings" in main directory
 
 ## How to train and test the model ?
 1. goto neural_network directory
